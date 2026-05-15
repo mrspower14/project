@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.boxoffice_title_container{
+  line-height: 0.5
+}
+
+.container h3 {
+    color: blue;
+}
+
+.container h4 {
+    color: blue;
+}

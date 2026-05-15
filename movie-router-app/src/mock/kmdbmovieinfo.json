@@ -1,0 +1,454 @@
+{
+    "Query": "",
+    "KMAQuery": "왕 사는 남자 왕과 장항준",
+    "TotalCount": 1,
+    "Data": [
+        {
+            "CollName": "kmdb_new2",
+            "TotalCount": 1,
+            "Count": 1,
+            "Result": [
+                {
+                    "DOCID": "K40652",
+                    "movieId": "K",
+                    "movieSeq": "40652",
+                    "title": "  !HS 왕과 !HE   !HS 사는 !HE   !HS 남자 !HE ",
+                    "titleEng": "The King's Warden (Wanggwa saneun namja)",
+                    "titleOrg": "",
+                    "titleEtc": "왕과사는남자^왕과 사는 남자^왕과사는 남자, 왕과 사는남자^The King's Warden (Wanggwa saneun namja)",
+                    "prodYear": "2025",
+                    "directors": {
+                        "director": [
+                            {
+                                "directorNm": " !HS 장항준 !HE ",
+                                "directorEnNm": "Zhang Hang-jun",
+                                "directorId": "00001849"
+                            }
+                        ]
+                    },
+                    "actors": {
+                        "actor": [
+                            {
+                                "actorNm": "유해진",
+                                "actorEnNm": "Yoo Hae-jin",
+                                "actorId": "00013060"
+                            },
+                            {
+                                "actorNm": "박지훈",
+                                "actorEnNm": "Park Jihoon",
+                                "actorId": "00231644"
+                            },
+                            {
+                                "actorNm": "유지태",
+                                "actorEnNm": "Yoo Ji-tae",
+                                "actorId": "00004034"
+                            },
+                            {
+                                "actorNm": "전미도",
+                                "actorEnNm": "Jeon Mido",
+                                "actorId": "00232996"
+                            },
+                            {
+                                "actorNm": "김민",
+                                "actorEnNm": "Kim Min",
+                                "actorId": "00226827"
+                            },
+                            {
+                                "actorNm": "이준혁",
+                                "actorEnNm": "Lee Jun-hyuk",
+                                "actorId": "00046523"
+                            },
+                            {
+                                "actorNm": "박지환",
+                                "actorEnNm": "Park Ji-hwan",
+                                "actorId": "00042222"
+                            },
+                            {
+                                "actorNm": "안재홍",
+                                "actorEnNm": "An Jae-hong",
+                                "actorId": "00012168"
+                            },
+                            {
+                                "actorNm": "박지윤",
+                                "actorEnNm": "",
+                                "actorId": ""
+                            },
+                            {
+                                "actorNm": "김수진",
+                                "actorEnNm": "Kim Soojin",
+                                "actorId": "00012033"
+                            },
+                            {
+                                "actorNm": "이준혁",
+                                "actorEnNm": "Lee Jun-hyeok",
+                                "actorId": "00015727"
+                            },
+                            {
+                                "actorNm": "오달수",
+                                "actorEnNm": "Oh Dal-soo",
+                                "actorId": "00010180"
+                            },
+                            {
+                                "actorNm": "한종훈",
+                                "actorEnNm": "Han Jonghoon",
+                                "actorId": "00232011"
+                            }
+                        ]
+                    },
+                    "nation": "대한민국",
+                    "company": "㈜온다웍스,㈜비에이엔터테인먼트",
+                    "plots": {
+                        "plot": [
+                            {
+                                "plotLang": "한국어",
+                                "plotText": "“나는 이제 어디로 갑니까…” 계유정난이 조선을 뒤흔들고 어린 왕 이홍위는 왕위에서 쫓겨나 유배길에 오른다.“무슨 수를 쓰더라도 그 대감을 우리 광천골로 오게 해야지”한편, 강원도 영월 산골 마을 광천골의 촌장 엄흥도는 먹고 살기 힘든 마을 사람들을 위해 청령포를 유배지로 만들기 위해 노력한다. 그러나 촌장이 부푼 꿈으로 맞이한 이는 왕위에서 쫓겨난 이홍위였다. 유배지를 지키는 보수주인으로서 그의 모든 일상을 감시해야만 하는 촌장은 삶의 의지를 잃어버린 이홍위가 점점 신경 쓰이는데… 1457년 청령포, 역사가 지우려 했던 이야기  왕과 사는 남자 "
+                            },
+                            {
+                                "plotLang": "영어",
+                                "plotText": "Political storms are raging in the kingdom of Joseon in the year 1457. But the tiny village of Yeongwol is so remote from the capital, life goes on unaffected. All of that changes one day when village chief Heung-do (Yoo Hai-jin) finds out that a neighboring village has hit upon an unexpected source of wealth. Chosen to host a court minister exiled from the capital, the town becomes the destination for shipments of food and other gifts from favor-seekers who anticipate that before long, the official will inevitably return to power. The village becomes so rich, they can even eat white rice.Eager to secure a similar windfall for his own people, Heung-do launches a campaign to promote Yeongwol as an ideal destination for exiled officials. And against expectations, he succeeds in convincing the shady government operative Han Myeong-hoe (Oldboy’s Yoo Ji-tae) to send Yeongwol its own dignitary. Yet Heung-do’s triumph is short-lived. Some time later a pale-faced, sickly young man arrives on a palanquin with a single female servant. No shipments of gifts stream into the village. It’s only then that the townspeople realize who is living in their midst: the deposed king Danjong, banished from the capital by his vengeful uncle, the new king."
+                            }
+                        ]
+                    },
+                    "runtime": "117",
+                    "rating": "12세이상관람가",
+                    "genre": "드라마,시대극/사극",
+                    "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/K/40652",
+                    "type": "극영화",
+                    "use": "극장용",
+                    "episodes": "",
+                    "ratedYn": "Y",
+                    "repRatDate": "20260105",
+                    "repRlsDate": "20260204",
+                    "ratings": {
+                        "rating": [
+                            {
+                                "ratingMain": "Y",
+                                "ratingDate": "20260105",
+                                "ratingNo": "2026-MF00002",
+                                "ratingGrade": "12세이상관람가",
+                                "releaseDate": "20260204",
+                                "runtime": "117"
+                            }
+                        ]
+                    },
+                    "keywords": "",
+                    "posters": "http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025128.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025131.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025132.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025133.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025134.jpg|http://file.koreafilm.or.kr/thm/02/99/19/28/tn_DPK025323.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025130.jpg|http://file.koreafilm.or.kr/thm/02/99/19/30/tn_DPK025360.jpg|http://file.koreafilm.or.kr/thm/02/99/19/28/tn_DPK025294.jpg|http://file.koreafilm.or.kr/thm/02/99/19/33/tn_DPK025414.jpg|http://file.koreafilm.or.kr/thm/02/99/19/28/tn_DPK025322.jpg|http://file.koreafilm.or.kr/thm/02/99/19/25/tn_DPK025129.jpg",
+                    "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927655.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927656.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927657.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927658.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927659.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927660.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927661.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927662.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927663.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/76/04/tn_DST927664.jpg",
+                    "staffs": {
+                        "staff": [
+                            {
+                                "staffNm": "장항준",
+                                "staffEnNm": "Zhang Hang-jun",
+                                "staffRoleGroup": "감독",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00001849"
+                            },
+                            {
+                                "staffNm": "황성구",
+                                "staffEnNm": "Hwang Seong-gu",
+                                "staffRoleGroup": "각본",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00026539"
+                            },
+                            {
+                                "staffNm": "장항준",
+                                "staffEnNm": "Zhang Hang-jun",
+                                "staffRoleGroup": "각본",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00001849"
+                            },
+                            {
+                                "staffNm": "유해진",
+                                "staffEnNm": "Yoo Hae-jin",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "엄흥도",
+                                "staffEtc": "",
+                                "staffId": "00013060"
+                            },
+                            {
+                                "staffNm": "박지훈",
+                                "staffEnNm": "Park Jihoon",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "이홍위",
+                                "staffEtc": "",
+                                "staffId": "00231644"
+                            },
+                            {
+                                "staffNm": "유지태",
+                                "staffEnNm": "Yoo Ji-tae",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "한명회",
+                                "staffEtc": "",
+                                "staffId": "00004034"
+                            },
+                            {
+                                "staffNm": "전미도",
+                                "staffEnNm": "Jeon Mido",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "매화",
+                                "staffEtc": "",
+                                "staffId": "00232996"
+                            },
+                            {
+                                "staffNm": "김민",
+                                "staffEnNm": "Kim Min",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "엄태산",
+                                "staffEtc": "",
+                                "staffId": "00226827"
+                            },
+                            {
+                                "staffNm": "이준혁",
+                                "staffEnNm": "Lee Jun-hyuk",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "금성대군",
+                                "staffEtc": "특별출연",
+                                "staffId": "00046523"
+                            },
+                            {
+                                "staffNm": "박지환",
+                                "staffEnNm": "Park Ji-hwan",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "어세겸",
+                                "staffEtc": "특별출연",
+                                "staffId": "00042222"
+                            },
+                            {
+                                "staffNm": "안재홍",
+                                "staffEnNm": "An Jae-hong",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "노루골 촌장",
+                                "staffEtc": "우정출연",
+                                "staffId": "00012168"
+                            },
+                            {
+                                "staffNm": "박지윤",
+                                "staffEnNm": "",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "막동",
+                                "staffEtc": "",
+                                "staffId": ""
+                            },
+                            {
+                                "staffNm": "김수진",
+                                "staffEnNm": "Kim Soojin",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "막동어멈",
+                                "staffEtc": "",
+                                "staffId": "00012033"
+                            },
+                            {
+                                "staffNm": "이준혁",
+                                "staffEnNm": "Lee Jun-hyeok",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "막동아재",
+                                "staffEtc": "",
+                                "staffId": "00015727"
+                            },
+                            {
+                                "staffNm": "오달수",
+                                "staffEnNm": "Oh Dal-soo",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "윤노인",
+                                "staffEtc": "",
+                                "staffId": "00010180"
+                            },
+                            {
+                                "staffNm": "한종훈",
+                                "staffEnNm": "Han Jonghoon",
+                                "staffRoleGroup": "출연",
+                                "staffRole": "외눈박이",
+                                "staffEtc": "",
+                                "staffId": "00232011"
+                            },
+                            {
+                                "staffNm": "임은정",
+                                "staffEnNm": "Im Eun-jeong",
+                                "staffRoleGroup": "제작자",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00169136"
+                            },
+                            {
+                                "staffNm": "장원석",
+                                "staffEnNm": "Jang Won-seok",
+                                "staffRoleGroup": "제작자",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00002101"
+                            },
+                            {
+                                "staffNm": "박윤호",
+                                "staffEnNm": "Pak Yun-ho",
+                                "staffRoleGroup": "프로듀서",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00166856"
+                            },
+                            {
+                                "staffNm": "최영환",
+                                "staffEnNm": "Choi Young-hwan",
+                                "staffRoleGroup": "촬영",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00012748"
+                            },
+                            {
+                                "staffNm": "이재혁",
+                                "staffEnNm": "Lee Jaehyeok",
+                                "staffRoleGroup": "조명",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00134548"
+                            },
+                            {
+                                "staffNm": "허선미",
+                                "staffEnNm": "Heo Sun-mi",
+                                "staffRoleGroup": "편집",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00013504"
+                            },
+                            {
+                                "staffNm": "달파란",
+                                "staffEnNm": "Palan Dal",
+                                "staffRoleGroup": "음악",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00013785"
+                            },
+                            {
+                                "staffNm": "배정윤",
+                                "staffEnNm": "Bae Jeong-yun",
+                                "staffRoleGroup": "미술",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00153320"
+                            },
+                            {
+                                "staffNm": "심현섭",
+                                "staffEnNm": "Sim Hyeon-seop",
+                                "staffRoleGroup": "의상",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00010186"
+                            },
+                            {
+                                "staffNm": "송종희",
+                                "staffEnNm": "Song Jong-hui",
+                                "staffRoleGroup": "분장",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": "00015717"
+                            },
+                            {
+                                "staffNm": "윤이나",
+                                "staffEnNm": "Yun Yina",
+                                "staffRoleGroup": "의상/분장팀",
+                                "staffRole": "분장팀",
+                                "staffEtc": "",
+                                "staffId": "00233095"
+                            },
+                            {
+                                "staffNm": "㈜온다웍스",
+                                "staffEnNm": "",
+                                "staffRoleGroup": "제작사",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": ""
+                            },
+                            {
+                                "staffNm": "㈜비에이엔터테인먼트",
+                                "staffEnNm": "B.A. Entertainment",
+                                "staffRoleGroup": "제작사",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": ""
+                            },
+                            {
+                                "staffNm": "㈜쇼박스",
+                                "staffEnNm": "Showbox",
+                                "staffRoleGroup": "투자사",
+                                "staffRole": "제공",
+                                "staffEtc": "",
+                                "staffId": ""
+                            },
+                            {
+                                "staffNm": "㈜쇼박스",
+                                "staffEnNm": "Showbox",
+                                "staffRoleGroup": "배급사",
+                                "staffRole": "",
+                                "staffEtc": "",
+                                "staffId": ""
+                            }
+                        ]
+                    },
+                    "vods": {
+                        "vod": [
+                            {
+                                "vodClass": "왕과 사는 남자",
+                                "vodUrl": "https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK064595_P02.mp4"
+                            },
+                            {
+                                "vodClass": "왕과 사는 남자",
+                                "vodUrl": "https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK064547_P02.mp4"
+                            },
+                            {
+                                "vodClass": "왕과 사는 남자",
+                                "vodUrl": "https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK064543_P02.mp4"
+                            },
+                            {
+                                "vodClass": "왕과 사는 남자",
+                                "vodUrl": "https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK064402_P02.mp4"
+                            }
+                        ]
+                    },
+                    "openThtr": "",
+                    "stat": [
+                        {
+                            "screenArea": "",
+                            "screenCnt": "",
+                            "salesAcc": "",
+                            "audiAcc": "",
+                            "statSouce": "",
+                            "statDate": ""
+                        }
+                    ],
+                    "screenArea": "",
+                    "screenCnt": "",
+                    "salesAcc": "",
+                    "audiAcc": "",
+                    "statSouce": "",
+                    "statDate": "",
+                    "themeSong": "",
+                    "soundtrack": "",
+                    "fLocation": "",
+                    "Awards1": "백상예술대상 (구 한국연극영화TV예술상)(2026) : 영화 신인 연기상(남) - 박지훈|백상예술대상 (구 한국연극영화TV예술상)(2026) : 구찌 임팩트 어워드 -|백상예술대상 (구 한국연극영화TV예술상)(2026) : 영화 대상 - 유해진|백상예술대상 (구 한국연극영화TV예술상)(2026) : 네이버 인기상(남) - 박지훈|우디네 극동영화제(2026) : 크리스탈 멀버리 관객상 - 장항준",
+                    "Awards2": "",
+                    "regDate": "20251216",
+                    "modDate": "20260504",
+                    "Codes": {
+                        "Code": [
+                            {
+                                "CodeNm": "FIMS",
+                                "CodeNo": "20242837"
+                            }
+                        ]
+                    },
+                    "CommCodes": {
+                        "CommCode": [
+                            {
+                                "CodeNm": "FIMS",
+                                "CodeNo": "20242837"
+                            }
+                        ]
+                    },
+                    "ALIAS": "srcKmdb2"
+                }
+            ]
+        }
+    ]
+}

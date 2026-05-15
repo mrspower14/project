@@ -1,0 +1,13 @@
+.search_movie_container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.search_movie_container h3 {
+    color: blue;
+}
+
+.search_movie_container h4 {
+    color: blue;
+}

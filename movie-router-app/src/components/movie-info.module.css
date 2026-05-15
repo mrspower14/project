@@ -1,0 +1,117 @@
+.boxoffice_container {
+  display: flex;
+  gap: 20px;
+  padding: 10px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.movielist_container {
+  display: flex;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.plot_container {
+  display: block;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+
+.poster_container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  overflow-x: auto; 
+  /* width: 100%; */
+  gap: 10px;
+  padding: 20px 10px;
+  /* border-bottom: 1px solid rgb(220, 220, 220); */
+  color: black;
+  text-decoration: none;
+}
+
+.stlls_container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  overflow-x: auto; 
+  gap: 5px;
+  padding: 20px 10px;
+  /* border-bottom: 1px solid rgb(220, 220, 220); */
+  color: black;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.movie_container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.image {
+  padding: 2px;
+  border: 1px solid #ddd;
+  border-radius: 10px; /* 카드 모서리를 둥글게 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 부드러운 그림자 효과 */
+  background-color: #fff;
+  cursor: pointer;
+}
+
+
+.image_detaile {
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 10px; /* 카드 모서리를 둥글게 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 부드러운 그림자 효과 */
+  background-color: #fff;
+}
+
+.image_detaile_stlls {
+  padding: 1px;
+  border: 1px solid #ddd;
+  border-radius: 10px; /* 카드 모서리를 둥글게 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 부드러운 그림자 효과 */
+  background-color: #fff;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 0.9rem;
+  word-break: keep-all;
+  margin-bottom: 10px;
+}
+
+.plot_description {
+  font-size: 0.9rem;
+  word-break: keep-all;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  line-height: 1.8;
+}

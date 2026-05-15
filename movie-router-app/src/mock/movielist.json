@@ -1,0 +1,99 @@
+{
+    "movieListResult": {
+        "totCnt": 5,
+        "source": "영화진흥위원회",
+        "movieList": [
+            {
+                "movieCd": "20259791",
+                "movieNm": "악마는 프라다를 입는다 2",
+                "movieNmEn": "The Devil Wears Prada 2",
+                "prdtYear": "2026",
+                "openDt": "20260429",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "드라마",
+                "repNationNm": "미국",
+                "repGenreNm": "드라마",
+                "directors": [
+                    {
+                        "peopleNm": "데이빗 프랭클"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20174699",
+                "movieNm": "톨 맨: 악마는 살아있다 ",
+                "movieNmEn": "Tall Men",
+                "prdtYear": "2016",
+                "openDt": "20171103",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "",
+                "repNationNm": "미국",
+                "repGenreNm": "공포(호러)",
+                "directors": [],
+                "companys": []
+            },
+            {
+                "movieCd": "20060264",
+                "movieNm": "악마는 프라다를 입는다",
+                "movieNmEn": "The Devil Wears Prada",
+                "prdtYear": "2006",
+                "openDt": "20061025",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "드라마",
+                "repNationNm": "미국",
+                "repGenreNm": "드라마",
+                "directors": [
+                    {
+                        "peopleNm": "데이빗 프랭클"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20148735",
+                "movieNm": "악마는 여자다",
+                "movieNmEn": "The Devil Is a Woman",
+                "prdtYear": "1935",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "미국",
+                "genreAlt": "코미디,드라마,멜로/로맨스",
+                "repNationNm": "미국",
+                "repGenreNm": "코미디",
+                "directors": [
+                    {
+                        "peopleNm": "조세프 본 스텐버그"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20110172",
+                "movieNm": "더 라이트: 악마는 있다",
+                "movieNmEn": "The Rite",
+                "prdtYear": "2011",
+                "openDt": "20110420",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "미스터리,스릴러",
+                "repNationNm": "미국",
+                "repGenreNm": "미스터리",
+                "directors": [
+                    {
+                        "peopleNm": "미카엘 하프스트롬"
+                    }
+                ],
+                "companys": []
+            }
+        ]
+    }
+}
