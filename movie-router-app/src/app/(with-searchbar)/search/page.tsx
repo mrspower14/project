@@ -1,6 +1,5 @@
 
 import { type MovieListData } from '@/types/types';
-import { type KmdbMovieData } from '@/types/kmdbtypes';
 import { MovieListInfo } from '@/components/movie-info';
 import { ENV } from '@/env';
 import style from 'page.module.css';
@@ -21,7 +20,7 @@ export default async function Page({searchParams}: {searchParams: Promise<{q?:st
 
     return (
         <div className="search_movie_container">
-            <h4>검색결과: {movies.length}건</h4>
+            {/* <h4>검색결과: {movies.length}건</h4> */}
 
             {movies.map ((movie) => {
                 return <MovieListInfo key={movie.movieCd} {...movie}/>

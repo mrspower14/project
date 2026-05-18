@@ -5,6 +5,7 @@ import style from './movie-info.module.css';
 import { ENV } from '@/env';
 import Link from 'next/link';
 import mock from '../mock/kmdbmovieinfo.json';
+import { InputEvent } from 'react';
 
 async function getMovieInfo (movieNm: string, openDt: string | null, director: string | null): Promise<KmdbMovieData | null> {
     let movies: KmdbMovieData[] = [];
@@ -55,7 +56,7 @@ export async function BoxofficeMovieInfo( {rank, rankInten, rankOldAndNew, movie
             }} 
             className={style.boxoffice_container} >
                 <div>
-                    <Image className={style.image} src={poster} alt={`${movieNm}의 포스터`} width={120} height={120}/>
+                    <Image className={style.image} src={poster} alt={`${movieNm}의 포스터`} width={120} height={140}/>
                 </div>
                 <div>
                     <div className={style.title}>{rank}. {movieNm}&nbsp;&nbsp;&nbsp;<span style={{color: `${rankColor}`}}>{rankNew}</span></div>
@@ -76,9 +77,9 @@ export async function MovieListInfo( {movieCd, movieNm, openDt, directors }: Mov
     const movie: KmdbMovieData | null = await getMovieInfo(movieNm, openDt.replaceAll("-", ""), director);
     
     if (!movie || !movie.title) return (
-        <div className={style.container}>
-                <div className={style.title}>{movieNm}</div>
-                <div className={style.description}>영화 상세정보가 없습니다.</div>
+         <div>
+                {/* <div className={style.title}>{movieNm}</div>
+                <div className={style.description}>영화 상세정보가 없습니다.</div> */}
         </div>
     );
     // if (!movie || !movie.title) return (
@@ -164,11 +165,12 @@ export async function MovieInfo( {movieCd, movieNm, openDt, director}: MovieData
     const actorList = movie.actors.actor.map((ac) => ac.actorNm);
     const actorName = actorList.slice(0, 5).join(", ");
     const vod = movie.vods.vod[0]?.vodUrl;
+
     return (
         <div>
             <div className={style.movie_container}>
                 <div>
-                    <Image className={style.image_detaile} src={poster} alt={`${movieNm}의 포스터`} width={250} height={300}/>
+                    <Image className={style.image_detail} src={poster} alt={`${movieNm}의 포스터`} width={220} height={300}/>
                 </div>
                 <div>
                     <div className={style.title}>{movieNm}</div>
@@ -191,20 +193,21 @@ export async function MovieInfo( {movieCd, movieNm, openDt, director}: MovieData
                 <div className={style.title}>포스터</div>
                 <div className={style.poster_container}>
                     {posterList.map ((poster) => {
-                        return poster ? <Image key={poster} className={style.image_detaile_stlls} src={poster} alt={`${movieNm}의 포스터`} width={180} height={200} /> : <div></div>
+                        return poster 
+                        ? <Image key={poster} className={style.image_detail_stlls} src={poster} alt={`${movieNm}의 포스터`} width={180} height={200} />                      
+                        : <div></div>
                     })}
                 </div>
             </div>
 
             <div className={style.plot_container}>
                 <div className={style.title}>스틸컷</div>
-                <div className={style.stlls_container}>
+                <div className={style.poster_container}>
                     {stllsList.map ((stlls) => { 
-                        return stlls ? <Image key={stlls} className={style.image_detaile_stlls} src={stlls} alt={`${movieNm}의 스틸컷`} width={130} height={150} /> : <div></div>
+                        return stlls ? <Image key={stlls} className={style.image_detail_stlls} src={stlls} alt={`${movieNm}의 스틸컷`} width={130} height={150} /> : <div></div>
                     })}
                 </div>
             </div>
-
         </div> 
     );
 }

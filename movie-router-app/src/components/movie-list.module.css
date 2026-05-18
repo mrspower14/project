@@ -1,0 +1,81 @@
+.boxoffice_container {
+  display: flex;
+  gap: 20px;
+  padding: 10px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.movielist_container {
+  display: flex;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.plot_container {
+  display: block;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.poster_container {
+  display: block;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.stlls_container {
+  display: block;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  gap: 15px;
+  padding: 20px 10px;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  color: black;
+  text-decoration: none;
+}
+
+.image {
+    width: auto;
+    height: auto;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 0.9rem;
+  word-break: keep-all;
+  margin-bottom: 10px;
+}
+
+.plot_description {
+  font-size: 0.9rem;
+  word-break: keep-all;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  line-height: 1.8;
+}
+
+.price {
+  color: red;
+}
